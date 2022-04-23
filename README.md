@@ -1,4 +1,4 @@
-# GX Hacker home repo
+# [GX Hacker](https://github.com/gx-hacker) home repo
 
 Welcome to this brand new project! GX Hacker contains many available browser styles and Discord themes! Most of them are reuploaded from "Discord Addons", a project that got sadly deleted (unfortunately).
 
