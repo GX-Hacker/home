@@ -14,7 +14,7 @@ You can see all the repositories on [my account](https://github.com/gx-hacker)!
 
 ## Want help?
 
-Newbies may not know how to download and use a Discord theme or browser style. Everything is explained on the [wiki](https://github.com/gx-hacker/home/wiki)!
+Newbies may not know how to download and use a Discord theme, a browser style or whatever. Everything is explained on the [wiki](https://github.com/gx-hacker/home/wiki)! You can also click the "Wiki" tab from any repository like this one.
 
 You can also [join my Discord server](https://dsc.gg/code-and-stuff) if you have any question!
 
