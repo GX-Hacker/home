@@ -1,6 +1,6 @@
 # [GX Hacker](https://github.com/gx-hacker) (GXH) Projects Home
 
-## The End of "Discord Addons"
+## The End of "Discord Addons"?
 
 *I don't want "Discord Addons" to die, I want it to have a future, because this project took time to create, and it had great content to share with people. I also want people to continue enjoying the themes and styles they used to love. That's why I want to be the new responsible of this content, keep things alive, and even try to make them better.* - me
 
