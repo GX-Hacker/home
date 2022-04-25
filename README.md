@@ -1,4 +1,4 @@
-# [GX Hacker](https://github.com/gx-hacker) Projects Home
+# [GX Hacker](https://github.com/gx-hacker) (GXH) Projects Home
 
 ## The End of "Discord Addons"
 
