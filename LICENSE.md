@@ -27,8 +27,9 @@ Here you will learn about public permissions, about what you can and can't do wi
 ## Responsibility
 
 The reuploaded content is considered as "Discord Addons unofficial source", because it is a modified copy of its content. [GX Hacker](https://github.com/gx-hacker), the owner of GXH Projects, manages the code by themself, and hosts this separately.
+- *From the original license: "Please note that Discord Addons is not responsible of modified versions nor unofficial sources of its content and you must manage them by yourself."*
 
-*From the original license: "Please note that Discord Addons is not responsible of modified versions nor unofficial sources of its content and you must manage them by yourself."*
+**This project requires the usage of third party modifications, such as BetterDiscord, and some may go against the Terms of Usage of the original service, such as Discord. Use this project at your own risk.**
 
 By accessing to this project, you automatically agree to follow this license. If you don't agree with it, don't use this project, or anything related to this project.
 
