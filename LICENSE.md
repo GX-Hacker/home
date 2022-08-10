@@ -1,6 +1,6 @@
 # GXH Project Archive License
 
-**This version of the license is still valuable and applies to the current archived version of GXH Projects and any copy of this project.**
+**This version of the license is still valuable and applies to the current archived version of [GXH Projects](https://github.com/GX-Hacker/home/) and any copy of this project.**
 
 ## Definitions
 
