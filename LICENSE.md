@@ -1,31 +1,35 @@
-# GXH Project License
+# GXH Project Archive License
 
-Maintained on the [GX Hacker (gx-hacker)](https://github.com/GX-Hacker) GitHub account.
+**This version of the license is still valuable and applies to the current archived version of GXH Projects and any copy of this project.**
 
-GX Hacker did not "create" all the reuploaded content, but continues to maintain them (credits to "Discord Addons"... well, sadly deleted), and any rights are reserved. GX Hacker owns its own originally written code and modified parts of the code.
+## Definitions
+
+- When the license says "project" it means all the repositories created for the same project, named GXH Projects, that is hosted in the [GX-Hacker](https://github.com/GX-Hacker) GitHub account, and is not a copy. 
+- When it says "copy of the project", it means any other project, created by anyone other than [GX-Hacker](https://github.com/GX-Hacker), that used, but is not part of GXH Projects.
+- When it says "anything related to this project", this includes all the previous terms, and everything that links to this project.
+
+I ("GX Hacker", the owner of this project) did not "create" any reuploaded content (credits to "Discord Addons", the original repositories that got deleted). GX Hacker owns its own originally written code and modified parts of the code.
 
 Here you will learn about public permissions, about what you can and can't do with this project.
 
-## What you CAN do:
+## What you are ALLOWED to do:
 
 - Use this project and copies of this project.
-- Share redirections of this project.
+- Share this project and anything related to this project.
 - Copy and modify this project for personal use.
-- Create and publish modified copies with different names if you'd like to, mentioning [GXH Projects](https://github.com/gx-hacker/home) or [GX Hacker](https://github.com/gx-hacker) somewhere publicly visible.
-- Help this project in any way, e.g. pull requests!
+- Create and publish modified copies with different names.
 
-## What you can NOT do:
+## What you are NOT allowed to do:
 
-- Make anything related to this project ***paid*** (will be considered as ***scam***). Everything may be 100% free.
-- Make a distrubing or fake advertisement of the project.
-- Any other obvious ways that people shouldn't do with the project.
+- Use this project for commercial purposes. The project is brought to you for **free**: If you paid for anything, you got **scammed**. Paid advertisements mustn't be made either.
+- Any other obvious ways that people shouldn't do with the project and anything related to this project.
 
 ## Responsibility
 
-The reuploaded content from "Discord Addons" is currently considered as "Discord Addons unofficial source", because it is a modified copy of its content. [GX Hacker](https://github.com/gx-hacker), the owner of GXH Projects, manages the code by themself, and this, separately.
+The reuploaded content is considered as "Discord Addons unofficial source", because it is a modified copy of its content. [GX Hacker](https://github.com/gx-hacker), the owner of GXH Projects, manages the code by themself, and hosts this separately.
 
 *From the original license: "Please note that Discord Addons is not responsible of modified versions nor unofficial sources of its content and you must manage them by yourself."*
 
-We will try to contact any Discord Addons responsible (if possible) to see if this copy could be considered as "official" or "approved source" so you can still trust an official source of nice content. *If any of them reads that, please contact us privately for your confirmation, that would be a lot easier.*
+By accessing to this project, you automatically agree to follow this license. If you don't agree with it, don't use this project, or anything related to this project.
 
-You can create modified copies of this project, so please credit us if you do it. Like Discord Addons did, [GX Hacker](https://github.com/gx-hacker) is not responsible of any copy of its content.
+*Thanks to the rare people who carefully read it this far!*
