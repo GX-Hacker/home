@@ -19,3 +19,7 @@ Personal support may not be available because this is an archive, and the repo o
 ## Want to contribute?
 
 The source code for most things is available in the [source](https://github.com/gx-hacker/source) repo. You can use this for anything such as your copy of this project. Don't hesitate to publish updated/improved versions of the project!
+
+### You may check the [license](https://github.com/GX-Hacker/home/blob/main/LICENSE.md) before anything!
+
+*(Keep in mind that you didn't "create" copied stuff from a source that is not yours!)*
